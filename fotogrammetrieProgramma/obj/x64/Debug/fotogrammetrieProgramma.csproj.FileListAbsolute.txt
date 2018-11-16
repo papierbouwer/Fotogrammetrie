@@ -1,0 +1,14 @@
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\bin\x64\Debug\fotogrammetrieProgramma.exe.config
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\bin\x64\Debug\fotogrammetrieProgramma.exe.manifest
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\bin\x64\Debug\fotogrammetrieProgramma.application
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\bin\x64\Debug\fotogrammetrieProgramma.exe
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\bin\x64\Debug\fotogrammetrieProgramma.pdb
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.AboutBox1.resources
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.FotogrammetrieForm.resources
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.Properties.Resources.resources
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.csproj.GenerateResource.Cache
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.TrustInfo.xml
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.exe.manifest
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.application
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.exe
+K:\school\klas6\OO\fotogrammetrieProgramma\fotogrammetrieProgramma\obj\x64\Debug\fotogrammetrieProgramma.pdb
